@@ -66,9 +66,8 @@ input {
 .col {
   border-style: solid;
   border-width: 3px;
-  border-radius: 10px;
   background: #0084b4;
-  border-width: 5px;
+  border-width: 1px;
   border-color: black;
   margin: 15px;
   position: relative;
@@ -80,11 +79,19 @@ input {
   padding-top: 7px;
   width: 30%;
   height: 20%;
-  background: #08a0e9;
+  border-color: black;
   border-style: solid;
-  border-width: 3px;
-  border-radius: 8px;
+  border-width: 1px;
   right: 0;
+}
+.title1{
+  background:#DF5D5D ;
+}
+.title2{
+  background:#3D1616 ;
+}
+.title3{
+  background: #B0B60C;
 }
 .prg {
   padding: 20px;
