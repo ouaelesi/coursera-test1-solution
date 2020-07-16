@@ -102,6 +102,9 @@ section i {
   margin-top: 5px;
   color: black;
 }
+h1{
+  color: #0084b4;
+}
 
 @media screen and (max-width: 991px) {
   .col1 {
